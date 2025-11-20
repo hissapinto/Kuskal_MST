@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Feito por
+//Caio Ariel Cardoso Saraiva - 10439611
+//Isabela Hissa Pinto - 10441873
+//Kaique Barros Paiva - 10441787
+
 #define MAX_VERTICES 256
 
 typedef struct {
